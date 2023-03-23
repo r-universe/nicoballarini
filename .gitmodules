@@ -8,3 +8,8 @@
 	url = https://github.com/nicoballarini/subgrplots
 	shallow = true
 	registered = true
+[submodule "subtee"]
+	path = subtee
+	url = https://github.com/cran/subtee
+	shallow = true
+	registered = true
